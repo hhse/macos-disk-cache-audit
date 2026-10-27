@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS Disk Cache Audit"
+  short_description: "Audit macOS disk usage and clean caches safely"
+  default_prompt: "Use $macos-disk-cache-audit to inspect this Mac, classify cache and data usage, and propose a safe cleanup plan."
